@@ -1,0 +1,4 @@
+demo:
+  redis:
+    clusternodes: "redis-node-0:6379"
+    password: "bitnami"
